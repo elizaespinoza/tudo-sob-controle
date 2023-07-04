@@ -14,7 +14,50 @@ Neste minicurso usaremos os seguintes materiais:
 ### Exercício 1
 
 1. Crie um repositório no GitHub com o mesmo nome que seu nick no GitHub.
-2. Clone o repositório para sua máquina.
+
+- Opções
+
+…or create a new repository on the command line
+
+```bash
+echo "# tudo-sob-controle" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:elizaespinoza/tudo-sob-controle.git
+git push -u origin main
+```
+
+…or push an existing repository from the command line
+
+```bash
+git remote add origin git@github.com:elizaespinoza/tudo-sob-controle.git
+git branch -M main
+git push -u origin main
+```
+
+- Profile readme
+
+```markdown
+## Hi there 👋
+
+<!--
+**username/username** is a ✨ _special_ ✨ repository because its `README.md`
+(this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+```
 
 ## FAQ
 
