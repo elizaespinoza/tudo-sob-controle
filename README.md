@@ -71,6 +71,17 @@ Here are some ideas to get you started:
 -->
 ```
 
+### Exercício 3: Eu esteve aqui!
+
+1. No repositorio do curso, crie um arquivo com seu nome.
+2. Faça um commit no branch com seu nome.
+3. Faça um push do branch com seu nome.
+4. Crie um pull request do branch com seu nome.
+
+#### Participantes
+
+- Elizabeth Espinoza
+
 ## FAQ
 
 ### O que é Git?
