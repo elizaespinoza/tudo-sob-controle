@@ -8,6 +8,9 @@ Neste minicurso usaremos os seguintes materiais:
 
 - [Git - guia rápido](https://rogerdudler.github.io/git-guide/index.pt_BR.html)
 - Download Git: [Windows](https://git-scm.com/download/win), [Mac](https://git-scm.com/download/mac), [Linux](https://git-scm.com/download/linux)
+- [VS Code](https://code.visualstudio.com/)
+- [Commitizen](https://commitizen-tools.github.io/commitizen/)
+- [Semantic Versioning](https://semver.org/)
 
 ## Exercícios
 
