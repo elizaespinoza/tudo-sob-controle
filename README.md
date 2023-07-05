@@ -11,13 +11,13 @@ Neste minicurso usaremos os seguintes materiais:
 
 ## Exercícios
 
-### Exercício 1
+### Exercício 1: Fork e clone do repositório do curso!
 
-1. Crie um repositório no GitHub com o mesmo nome que seu nick no GitHub.
+1. Faça um fork do repositório do curso.
 
 - Opções
 
-…or create a new repository on the command line
+> …or create a new repository on the command line
 
 ```bash
 echo "# tudo-sob-controle" >> README.md
@@ -29,13 +29,25 @@ git remote add origin git@github.com:elizaespinoza/tudo-sob-controle.git
 git push -u origin main
 ```
 
-…or push an existing repository from the command line
+> …or push an existing repository from the command line
 
 ```bash
 git remote add origin git@github.com:elizaespinoza/tudo-sob-controle.git
 git branch -M main
 git push -u origin main
 ```
+
+2. Clone o repositório do curso.
+3. Crie um branch com seu nome.
+4. Faça um commit no branch com seu nome.
+5. Faça um push do branch com seu nome.
+6. Crie um pull request do branch com seu nome.
+
+### Exercício 2: Personalize seu perfil no GiHub!
+
+1. Crie um repositório no GitHub com o mesmo nome que seu nick no GitHub.
+
+> Algumas dicas: [Como criar um README para o seu perfil do GitHub](https://www.alura.com.br/artigos/como-criar-um-readme-para-seu-perfil-github) e [Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 
 - Profile readme
 
